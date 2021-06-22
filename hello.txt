@@ -1,4 +1,8 @@
 hello 
 sadas
 czxczx123
+<<<<<<< HEAD
 master branch
+=======
+hot-fix
+>>>>>>> hot-fix
